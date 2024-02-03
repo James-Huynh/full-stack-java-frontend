@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # full-stack-java-frontend
 React
->>>>>>> c81bda88864e51e152885e6b8ad94a7b57e2b8e3
