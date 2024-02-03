@@ -1,3 +1,3 @@
 # full-stack-java-frontend
-## Language: React
-## Name: Movie-Gold-v1
+**Language**: React  
+**Name**: Movie-Gold-v1
